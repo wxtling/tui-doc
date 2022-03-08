@@ -7,7 +7,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   description: '一个开箱即用的 uni-app 框架',
   themeConfig: {
     editLink: false,
-    repo: 'https://gitee.com/etal/tui-doc',
+    repo: 'https://github.com/wxtling/tui',
 
     navbar: [
       {
