@@ -22,10 +22,10 @@ export default defineUserConfig<DefaultThemeOptions>({
         text: 'API 参考',
         link: '/api/',
       },
-      {
-        text: '关于',
-        link: '/about/',
-      },
+      // {
+      //   text: '关于',
+      //   link: '/about/',
+      // },
     ],
 
     sidebar: {
@@ -36,10 +36,13 @@ export default defineUserConfig<DefaultThemeOptions>({
         },
       ],
     },
-
     // page meta
     editLinkText: '在 GitHub 上编辑此页',
+
+    lastUpdated:false,
     lastUpdatedText: '上次更新',
+
+    contributors: false,
     contributorsText: '贡献者',
 
     // custom containers

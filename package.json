@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "tui et-al@qq.com",
   "license": "MIT",
-  "repository": "https://github.com/vbenjs/vue-vben-admin-doc",
+  "repository": "https://github.com/wxtling/tui-doc",
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
